@@ -13,7 +13,7 @@
 
 ### ۱. این ریپو رو فورک کن
 ### ۲. برو به **Settings → Actions → General**
-### ۳. در بخش **Workflow permissions** گزینه **Read and write permissions** رو انتخاب کن و **Save** رو بزن.
+### ۳. در بخش **Workflow permissions** گزینه **Read and  write permissions** رو انتخاب کن و **Save** رو بزن.
 ### ۴. ساخت Secret برای کوکی‌ها (خیلی مهم!)
 
 یوتیوب ربات‌ها رو تشخیص می‌ده، برای همین باید خودمون رو مثل یه کاربر واقعی نشون بدیم.
